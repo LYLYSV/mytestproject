@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <studio.h>
 int main()
 {
 	printf("HELLO WORLD!!! ADA\r\n");
